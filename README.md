@@ -1,6 +1,9 @@
-# uganda-open-source-projects
+## Introduction
 
 [uganda open source projects](https://github.com/CodeForUganda/uganda-open-source-projects) is a curated list of open-source projects by tech enthuasiasts, developers and organisations based or carrying out activities in Uganda.
+
+## Inspiration
+
 A Facebook post in Developer Circles Kampala Facebook group inspired this project.
 
 ## Project structure
@@ -23,7 +26,7 @@ To add a project, Use the guide on how to add a project above.
 [] - Add the project set up instructions
 [] - Look at th ehosting options that we have.
 [] - Change the images to _.webp_ format
-[] - Add a data file in \_.json_format which will include the projects and the authors.
+[] - Add a data file in _.json_ format which will include the projects and the authors.
 [] - Add component tests and libs to help
 
 ##### [] -Add any info that you would like to be added to the repo above and leave this sentence intact..
