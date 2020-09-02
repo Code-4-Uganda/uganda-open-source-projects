@@ -11,3 +11,5 @@ For a project to be added, the following must be passed:
 - The project should not be a list of some sort.
 
 - Ensure to provide a social media url of the creator of the project outside GitHub.
+
+- Please ensure that all the fields (authors_name, github_link, contact_info of the author) are filled when adding a new project
